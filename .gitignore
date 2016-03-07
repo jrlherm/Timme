@@ -1,0 +1,5 @@
+# Les ligne commençant par '#' sont des commentaires.
+# Ignorer le dossier de modules
+# Pour installer les modules tapper "npm install" dans cmd.exe
+node_modules/
+data/journal/
