@@ -8,6 +8,6 @@
 
 -> dependencies
 
-  '''
-  sudo npm install
-  '''
+```
+$ sudo npm install
+```
